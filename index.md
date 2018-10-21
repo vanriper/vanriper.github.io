@@ -1,6 +1,6 @@
 ## About Me
 
-Previously, I was a [GDG Community](https://meetup.com/pro/gdg) Advocate from 2011-2014. As of November 2018, I am now a Go Community Advocate on the Go Cloud Team at Google.
+Previously, I was a [GDG Community](https://meetup.com/pro/gdg) Advocate from 2011-2014. From January 2015 through October 2018, I worked in People Development at Google on mindfulness-based well-being community programs for Google employees. That effort led to my involvement in the creation of the [Mindful Workplace Alliance](https://www.mindfulworkplacemovement.com/alliance/) and I am also on the advisory board for the Alliance.  As of November 2018, I am a Go Community Advocate on the Go Cloud Team working with [Cassandra Salisbury](https://twitter.com/cassandraoid).
 
 ### Go Conferences 2019
 
