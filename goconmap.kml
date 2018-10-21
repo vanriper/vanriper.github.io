@@ -37,6 +37,7 @@
 
     <Folder>
         <name>North America</name>
+    	<visibility>1</visibility> 
         <open>1</open>
 		<Folder>
 			<name>United States</name>
@@ -54,7 +55,7 @@
 
     <Folder>
         <name>South America</name>
-        <open>1</open>
+        <open>0</open>
     </Folder>
 
     <Folder>
@@ -62,7 +63,7 @@
         <open>1</open>
         <Folder>
             <name>Belgium</name>
-            <open>0</open>
+            <open>1</open>
             <Placemark>
                 <name>Brussels Event</name>
                 <description>&lt;p&gt;&lt;strong&gt;Organizers:&lt;/strong&gt; Friedger Müffke, Pieter-Jan&lt;br/&gt;&lt;br/&gt;&lt;a href="http://brussels.gtugs.org"&gt;Chapter Website&lt;/a&gt;&lt;/p&gt;&lt;p&gt;The Brussels Google Technology User Group (bru-gtug) is a English speaking group meeting in Brussels and surrounding. Our first meeting was an Android Hackathon, now, we are meeting usually at the Googleplex. We try to meet on a monthly basis and are open for developers and non-developers.&lt;/p&gt;
@@ -79,17 +80,17 @@
 
     <Folder>
         <name>Asia</name>
-        <open>1</open>
+        <open>0</open>
     </Folder>
 
     <Folder>
         <name>Oceania</name>
-        <open>1</open>
+        <open>0</open>
     </Folder>
 
     <Folder>
         <name>Africa</name>
-        <open>1</open>
+        <open>0</open>
     </Folder>
 
 </Document>
