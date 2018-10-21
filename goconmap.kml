@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+
+    <name>Go Conferences 2019</name>
+    <description>
+    <![CDATA[
+        Geographic location and event information for major Go developer
+        conferences around the world. For convenience, they are grouped by continent.
+        <br/>&nbsp;
+    ]]>
+    </description>
+    <Style id="confirmed">
+        <IconStyle>
+            <scale>1.0</scale>
+            <heading>0.0</heading>
+            <Icon>
+                <href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>
+                <refreshInterval>0.0</refreshInterval>
+                <viewRefreshTime>0.0</viewRefreshTime>
+                <viewBoundScale>0.0</viewBoundScale>
+            </Icon>
+        </IconStyle>
+    </Style>
+    <Style id="tbd">
+        <IconStyle>
+            <scale>1.0</scale>
+            <heading>0.0</heading>
+            <Icon>
+                <href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href>
+                <refreshInterval>0.0</refreshInterval>
+                <viewRefreshTime>0.0</viewRefreshTime>
+                <viewBoundScale>0.0</viewBoundScale>
+            </Icon>
+        </IconStyle>
+    </Style>
+
+    <Folder>
+        <name>North America</name>
+        <open>1</open>
+		<Folder>
+			<name>United States</name>
+        	<open>1</open>
+            <Placemark>
+                <name>Denver Event</name>
+                <description>&lt;p&gt;&lt;strong&gt;Organizers:&lt;/strong&gt; Kyle Roche&lt;br/&gt;&lt;br/&gt;&lt;a href="http://www.denver-gtug.org"&gt;Chapter Website&lt;/a&gt;&lt;/p&gt;&lt;p&gt;The Denver GTUG meets monthly in the Stapleton area. The focus is on Android, Google App Engine, and Google Wave.&amp;nbsp;&lt;/p&gt;</description>
+                <styleUrl>#tbd</styleUrl>
+                <Point>
+                    <coordinates>-104.9847034,39.7391536</coordinates>
+                </Point>
+            </Placemark>
+		</Folder>
+    </Folder>
+
+    <Folder>
+        <name>South America</name>
+        <open>1</open>
+    </Folder>
+
+    <Folder>
+        <name>Europe</name>
+        <open>1</open>
+        <Folder>
+            <name>Belgium</name>
+            <open>0</open>
+            <Placemark>
+                <name>Brussels Event</name>
+                <description>&lt;p&gt;&lt;strong&gt;Organizers:&lt;/strong&gt; Friedger Müffke, Pieter-Jan&lt;br/&gt;&lt;br/&gt;&lt;a href="http://brussels.gtugs.org"&gt;Chapter Website&lt;/a&gt;&lt;/p&gt;&lt;p&gt;The Brussels Google Technology User Group (bru-gtug) is a English speaking group meeting in Brussels and surrounding. Our first meeting was an Android Hackathon, now, we are meeting usually at the Googleplex. We try to meet on a monthly basis and are open for developers and non-developers.&lt;/p&gt;
+&lt;h3&gt;Brussels GTUG Video&lt;/h3&gt;&lt;iframe width="560" height="349" src="http://www.youtube.com/embed/kcOHBCX0V80" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;h3&gt; Atomium in Brussels, Belgium&lt;/h3&gt;&lt;p&gt;&lt;img border="0" width="560" src="https://lh5.googleusercontent.com/_WFJeF9W6qD4/TcR3DzkloSI/AAAAAAAAAcs/j0vbq5BEBKM/Brussels-Atomium.jpg"&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+                <styleUrl>#tbd</styleUrl>
+                <Point>
+                    <coordinates>4.3517103,50.8503396</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Folder>
+
+    <Folder>
+        <name>Asia</name>
+        <open>1</open>
+    </Folder>
+
+    <Folder>
+        <name>Oceania</name>
+        <open>1</open>
+    </Folder>
+
+    <Folder>
+        <name>Africa</name>
+        <open>1</open>
+    </Folder>
+
+</Document>
+</kml>
