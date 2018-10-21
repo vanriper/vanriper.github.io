@@ -44,7 +44,7 @@
             <Placemark>
                 <name>Denver Event</name>
                 <description>&lt;p&gt;&lt;strong&gt;Organizers:&lt;/strong&gt; Kyle Roche&lt;br/&gt;&lt;br/&gt;&lt;a href="http://www.denver-gtug.org"&gt;Chapter Website&lt;/a&gt;&lt;/p&gt;&lt;p&gt;The Denver GTUG meets monthly in the Stapleton area. The focus is on Android, Google App Engine, and Google Wave.&amp;nbsp;&lt;/p&gt;</description>
-                <styleUrl>#tbd</styleUrl>
+                <styleUrl>#confirmed</styleUrl>
                 <Point>
                     <coordinates>-104.9847034,39.7391536</coordinates>
                 </Point>
