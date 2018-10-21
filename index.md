@@ -1,4 +1,4 @@
-![Van Gogh stylized photo of Van Riper]({{ site.baseurl }}/images/govango-black-background.jpeg "The Go Van Gogh") {
+![Van Gogh stylized photo of Van Riper]({{ site.baseurl }}/images/govango-black-background.jpeg "The Go Van Gogh"){
   width: 40%;
   border: none;
   background: none;
