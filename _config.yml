@@ -3,3 +3,4 @@ description: Serial Community Organizer
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
+include: goconmap.html, goconmap.kml
