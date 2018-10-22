@@ -46,7 +46,7 @@
                 <description>&lt;p&gt;&lt;strong&gt;Website:&lt;/strong&gt; &lt;a
                     href="http://gothamgo.com/"&gt;gothamgo.com&lt;/a&gt;&lt;br/&gt;
                     &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; April 12,2019&lt;/p&gt;
-				</description>
+                </description>
                 <styleUrl>#confirmed</styleUrl>
                 <Point>
                     <coordinates>-73.982430,40.770550</coordinates>
@@ -73,7 +73,7 @@
                     &lt;strong&gt;CFP:&lt;/strong&gt; &lt;a
                     href="https://docs.google.com/forms/d/e/1FAIpQLSfJjXZDjdvJKTKUz_HedK9oJt_sh9MN57GIm_7H0MfDnd4wOA/viewform?c=0&w=1"&gt;Link&lt;/a&gt;&lt;br/&gt;		
                     &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; March 25,2019&lt;/p&gt;
-				</description>
+                </description>
                 <styleUrl>#confirmed</styleUrl>
                 <Point>
                     <coordinates>2.331520,48.878630</coordinates>
@@ -90,7 +90,7 @@
                     &lt;strong&gt;CFP:&lt;/strong&gt; &lt;a
                     href="https://talks.godays.io/godays19/"&gt;Link&lt;/a&gt;&lt;br/&gt;				
                     &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; January 29-30,2019&lt;/p&gt;
-				</description>
+                </description>
                 <styleUrl>#confirmed</styleUrl>
                 <Point>
                     <coordinates>13.446100,52.493960</coordinates>
