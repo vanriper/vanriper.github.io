@@ -43,19 +43,14 @@
 			<name>United States</name>
         	<open>1</open>
             <Placemark>
-                <name>Google I/O</name>
-                <description>Premier event for developers working with Google technologies.</description>
+                <name>New York: GothamGo</name>
+                <description>&lt;p&gt;&lt;strong&gt;Website:&lt;/strong&gt; &lt;a
+				 	href="http://gothamgo.com/"&gt;gothamgo.com&lt;/a&gt;&lt;br/&gt;
+					&lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; April 12,2019&lt;/p&gt;
+				</description>
                 <styleUrl>#confirmed</styleUrl>
                 <Point>
-                    <coordinates>-122.078050,37.423320</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark>
-                <name>Denver Event</name>
-                <description>&lt;p&gt;&lt;strong&gt;Organizers:&lt;/strong&gt; Kyle Roche&lt;br/&gt;&lt;br/&gt;&lt;a href="http://www.denver-gtug.org"&gt;Chapter Website&lt;/a&gt;&lt;/p&gt;&lt;p&gt;The Denver GTUG meets monthly in the Stapleton area. The focus is on Android, Google App Engine, and Google Wave.&amp;nbsp;&lt;/p&gt;</description>
-                <styleUrl>#confirmed</styleUrl>
-                <Point>
-                    <coordinates>-104.9847034,39.7391536</coordinates>
+                    <coordinates>-73.982430,40.770550</coordinates>
                 </Point>
             </Placemark>
 		</Folder>
@@ -70,17 +65,35 @@
         <name>Europe</name>
         <open>1</open>
         <Folder>
-            <name>Belgium</name>
+            <name>France</name>
             <open>1</open>
             <Placemark>
-                <name>Brussels Event</name>
-                <description>&lt;p&gt;&lt;strong&gt;Organizers:&lt;/strong&gt; Friedger Müffke, Pieter-Jan&lt;br/&gt;&lt;br/&gt;&lt;a href="http://brussels.gtugs.org"&gt;Chapter Website&lt;/a&gt;&lt;/p&gt;&lt;p&gt;The Brussels Google Technology User Group (bru-gtug) is a English speaking group meeting in Brussels and surrounding. Our first meeting was an Android Hackathon, now, we are meeting usually at the Googleplex. We try to meet on a monthly basis and are open for developers and non-developers.&lt;/p&gt;
-&lt;h3&gt;Brussels GTUG Video&lt;/h3&gt;&lt;iframe width="560" height="349" src="http://www.youtube.com/embed/kcOHBCX0V80" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-&lt;h3&gt; Atomium in Brussels, Belgium&lt;/h3&gt;&lt;p&gt;&lt;img border="0" width="560" src="https://lh5.googleusercontent.com/_WFJeF9W6qD4/TcR3DzkloSI/AAAAAAAAAcs/j0vbq5BEBKM/Brussels-Atomium.jpg"&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
-                <styleUrl>#tbd</styleUrl>
+                <name>Paris: dotGo</name>
+                <description>&lt;p&gt;&lt;strong&gt;Website:&lt;/strong&gt; &lt;a
+				 	href="https://2019.dotgo.eu/"&gt;2019.dotgo.eu&lt;/a&gt;&lt;br/&gt;
+					&lt;strong&gt;CFP:&lt;/strong&gt; &lt;a 					href="https://docs.google.com/forms/d/e/1FAIpQLSfJjXZDjdvJKTKUz_HedK9oJt_sh9MN57GIm_7H0MfDnd4wOA/viewform?c=0&w=1"&gt;Link&lt;/a&gt;&lt;br/&gt;		
+					&lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; March 25,2019&lt;/p&gt;
+				</description>
+                <styleUrl>#confirmed</styleUrl>
                 <Point>
-                    <coordinates>4.3517103,50.8503396</coordinates>
+                    <coordinates>2.331520,48.878630</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder>
+            <name>Germany</name>
+            <open>1</open>
+            <Placemark>
+                <name>Berlin: GoDays</name>
+                <description>&lt;p&gt;&lt;strong&gt;Website:&lt;/strong&gt; &lt;a
+ 					href="https://www.godays.io/"&gt;godays.io&lt;/a&gt;&lt;br/&gt;
+					&lt;strong&gt;CFP:&lt;/strong&gt; &lt;a
+					href="https://talks.godays.io/godays19/"&gt;Link&lt;/a&gt;&lt;br/&gt;				
+					&lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; January 29-30,2019&lt;/p&gt;
+				</description>
+                <styleUrl>#confirmed</styleUrl>
+                <Point>
+                    <coordinates>13.446100,52.493960</coordinates>
                 </Point>
             </Placemark>
         </Folder>
