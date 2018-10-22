@@ -37,7 +37,6 @@
 
     <Folder>
         <name>North America</name>
-    	<visibility>1</visibility> 
         <open>1</open>
 		<Folder>
 			<name>United States</name>
