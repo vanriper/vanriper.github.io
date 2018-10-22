@@ -1,6 +1,6 @@
 title: Van Riper
 description: Serial Community Organizer
 show_downloads: false
+incremental: false
 google_analytics:
 theme: jekyll-theme-cayman
-include: goconmap.html, goconmap.kml
