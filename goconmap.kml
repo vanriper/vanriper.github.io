@@ -44,8 +44,8 @@
             <Placemark>
                 <name>New York: GothamGo</name>
                 <description>&lt;p&gt;&lt;strong&gt;Website:&lt;/strong&gt; &lt;a
-				 	href="http://gothamgo.com/"&gt;gothamgo.com&lt;/a&gt;&lt;br/&gt;
-					&lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; April 12,2019&lt;/p&gt;
+                    href="http://gothamgo.com/"&gt;gothamgo.com&lt;/a&gt;&lt;br/&gt;
+                    &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; April 12,2019&lt;/p&gt;
 				</description>
                 <styleUrl>#confirmed</styleUrl>
                 <Point>
@@ -69,9 +69,10 @@
             <Placemark>
                 <name>Paris: dotGo</name>
                 <description>&lt;p&gt;&lt;strong&gt;Website:&lt;/strong&gt; &lt;a
-				 	href="https://2019.dotgo.eu/"&gt;2019.dotgo.eu&lt;/a&gt;&lt;br/&gt;
-					&lt;strong&gt;CFP:&lt;/strong&gt; &lt;a 					href="https://docs.google.com/forms/d/e/1FAIpQLSfJjXZDjdvJKTKUz_HedK9oJt_sh9MN57GIm_7H0MfDnd4wOA/viewform?c=0&w=1"&gt;Link&lt;/a&gt;&lt;br/&gt;		
-					&lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; March 25,2019&lt;/p&gt;
+                    href="https://2019.dotgo.eu/"&gt;2019.dotgo.eu&lt;/a&gt;&lt;br/&gt;
+                    &lt;strong&gt;CFP:&lt;/strong&gt; &lt;a
+                    href="https://docs.google.com/forms/d/e/1FAIpQLSfJjXZDjdvJKTKUz_HedK9oJt_sh9MN57GIm_7H0MfDnd4wOA/viewform?c=0&w=1"&gt;Link&lt;/a&gt;&lt;br/&gt;		
+                    &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; March 25,2019&lt;/p&gt;
 				</description>
                 <styleUrl>#confirmed</styleUrl>
                 <Point>
@@ -85,10 +86,10 @@
             <Placemark>
                 <name>Berlin: GoDays</name>
                 <description>&lt;p&gt;&lt;strong&gt;Website:&lt;/strong&gt; &lt;a
- 					href="https://www.godays.io/"&gt;godays.io&lt;/a&gt;&lt;br/&gt;
-					&lt;strong&gt;CFP:&lt;/strong&gt; &lt;a
-					href="https://talks.godays.io/godays19/"&gt;Link&lt;/a&gt;&lt;br/&gt;				
-					&lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; January 29-30,2019&lt;/p&gt;
+                    href="https://www.godays.io/"&gt;godays.io&lt;/a&gt;&lt;br/&gt;
+                    &lt;strong&gt;CFP:&lt;/strong&gt; &lt;a
+                    href="https://talks.godays.io/godays19/"&gt;Link&lt;/a&gt;&lt;br/&gt;				
+                    &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; January 29-30,2019&lt;/p&gt;
 				</description>
                 <styleUrl>#confirmed</styleUrl>
                 <Point>
