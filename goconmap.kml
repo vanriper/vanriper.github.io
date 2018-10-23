@@ -319,9 +319,14 @@
         	<open>1</open>
             <Placemark>
                 <name>New York: GothamGo</name>
-                <description>&lt;p&gt;&lt;strong&gt;Website:&lt;/strong&gt; &lt;a
-                    href="http://gothamgo.com/"&gt;gothamgo.com&lt;/a&gt;&lt;br/&gt;
-                    &lt;strong&gt;Date:&lt;/strong&gt; April 12, 2019&lt;/p&gt;
+                <description>
+                <![CDATA[
+				    <p><strong>Website:</strong> <a 
+                    href="http://gothamgo.com/">gothamgo.com</a><br/>
+                    <strong>Date:</strong> March 25, 2019<br/><br/>
+					<img src="http://gothamgo.com/assets/gothamgo/2018/conference/three-14e3d4534217a3cea791355fd4dd36b39146e5e4ec21f7b430a44cb897f99aba.png"
+                    width="200"></p>
+                ]]>
                 </description>
                 <styleUrl>#future4</styleUrl>
                 <Point>
@@ -365,11 +370,15 @@
             <open>1</open>
             <Placemark>
                 <name>Berlin: GoDays</name>
-                <description>&lt;p&gt;&lt;strong&gt;Website:&lt;/strong&gt; &lt;a
-                    href="https://www.godays.io/"&gt;godays.io&lt;/a&gt;&lt;br/&gt;
-                    &lt;strong&gt;CFP:&lt;/strong&gt; &lt;a
-                    href="https://talks.godays.io/godays19/"&gt;Link&lt;/a&gt;&lt;br/&gt;				
-                    &lt;strong&gt;Date:&lt;/strong&gt; January 29-30, 2019&lt;/p&gt;
+                <description>
+                <![CDATA[
+				    <p><strong>Website:</strong> <a 
+                    href="https://www.godays.io/">godays.io</a><br/>
+                    <strong>CFP:</strong> <a
+                    href="https://talks.godays.io/godays19/">Link</a><br/>		
+                    <strong>Date:</strong> January 29-30, 2019<br/><br/>
+					<img src="https://static.wixstatic.com/media/bbadf4_e322f75b14db4a8c9bf28059d8c09762~mv2_d_8251_2179_s_2.png/v1/fill/w_2560,h_736,al_c,q_85,usm_0.66_1.00_0.01/bbadf4_e322f75b14db4a8c9bf28059d8c09762~mv2_d_8251_2179_s_2.webp" width="200"></p>
+                ]]>
                 </description>
                 <styleUrl>#future1</styleUrl>
                 <Point>
