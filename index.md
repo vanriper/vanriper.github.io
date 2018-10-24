@@ -5,7 +5,7 @@ Previously, I was a [GDG Community](https://meetup.com/pro/gdg) Advocate from 20
 
 ### Go Conferences 2019
 
-The conference map is [here](http://j.mp/goconmap) and the short link to access it is [j.mp/goconmap](http://j.mp/goconmap). You can use [this service](https://www.latlong.net/convert-address-to-lat-long.html) to get geocodes when adding new conference placemarks to the map. You can use [this service](http://www.feedvalidator.org/) to validate your KML data files. Our Go Conferences 2019 map data comes from [this KML file](https://vanriper.github.io/goconmap.kml).
+The conference map is [here](http://j.mp/goconmap) and the short link to access it is [j.mp/goconmap](http://j.mp/goconmap). Using numeric map markers from the [Concept211/Google-Maps-Markers Project](https://github.com/Concept211/Google-Maps-Markers). You can use [this service](https://www.latlong.net/convert-address-to-lat-long.html) to get geocodes when adding new conference placemarks to the map. You can use [this service](http://www.feedvalidator.org/) to validate your KML data files. Our Go Conferences 2019 map data comes from [this KML file](https://vanriper.github.io/goconmap.kml).
 
 ### GitHub Pages Support or Contact
 
