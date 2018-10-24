@@ -22,7 +22,7 @@
             </Icon>
         </IconStyle>
     </Style>
-    <Style id="future1">
+    <Style id="tbd1">
         <IconStyle>
             <scale>1.0</scale>
             <heading>0.0</heading>
@@ -34,7 +34,7 @@
             </Icon>
         </IconStyle>
     </Style>
-    <Style id="future2">
+    <Style id="tbd2">
         <IconStyle>
             <scale>1.0</scale>
             <heading>0.0</heading>
@@ -46,7 +46,7 @@
             </Icon>
         </IconStyle>
     </Style>
-    <Style id="future3">
+    <Style id="tbd3">
         <IconStyle>
             <scale>1.0</scale>
             <heading>0.0</heading>
@@ -58,7 +58,7 @@
             </Icon>
         </IconStyle>
     </Style>
-    <Style id="future4">
+    <Style id="tbd4">
         <IconStyle>
             <scale>1.0</scale>
             <heading>0.0</heading>
@@ -70,7 +70,7 @@
             </Icon>
         </IconStyle>
     </Style>
-    <Style id="future5">
+    <Style id="tbd5">
         <IconStyle>
             <scale>1.0</scale>
             <heading>0.0</heading>
@@ -82,7 +82,7 @@
             </Icon>
         </IconStyle>
     </Style>
-    <Style id="future6">
+    <Style id="tbd6">
         <IconStyle>
             <scale>1.0</scale>
             <heading>0.0</heading>
@@ -94,7 +94,7 @@
             </Icon>
         </IconStyle>
     </Style>
-    <Style id="future7">
+    <Style id="tbd7">
         <IconStyle>
             <scale>1.0</scale>
             <heading>0.0</heading>
@@ -106,7 +106,7 @@
             </Icon>
         </IconStyle>
     </Style>
-    <Style id="future8">
+    <Style id="tbd8">
         <IconStyle>
             <scale>1.0</scale>
             <heading>0.0</heading>
@@ -118,7 +118,7 @@
             </Icon>
         </IconStyle>
     </Style>
-    <Style id="future9">
+    <Style id="tbd9">
         <IconStyle>
             <scale>1.0</scale>
             <heading>0.0</heading>
@@ -130,7 +130,7 @@
             </Icon>
         </IconStyle>
     </Style>
-    <Style id="future10">
+    <Style id="tbd10">
         <IconStyle>
             <scale>1.0</scale>
             <heading>0.0</heading>
@@ -142,7 +142,7 @@
             </Icon>
         </IconStyle>
     </Style>
-    <Style id="future11">
+    <Style id="tbd11">
         <IconStyle>
             <scale>1.0</scale>
             <heading>0.0</heading>
@@ -154,7 +154,151 @@
             </Icon>
         </IconStyle>
     </Style>
-    <Style id="future12">
+    <Style id="tbd12">
+        <IconStyle>
+            <scale>1.0</scale>
+            <heading>0.0</heading>
+            <Icon>
+                <href>https://vanriper.github.io/images/marker_green12.png</href>
+                <refreshInterval>0.0</refreshInterval>
+                <viewRefreshTime>0.0</viewRefreshTime>
+                <viewBoundScale>0.0</viewBoundScale>
+            </Icon>
+        </IconStyle>
+    </Style>
+    <Style id="confirmed1">
+        <IconStyle>
+            <scale>1.0</scale>
+            <heading>0.0</heading>
+            <Icon>
+                <href>https://vanriper.github.io/images/marker_green1.png</href>
+                <refreshInterval>0.0</refreshInterval>
+                <viewRefreshTime>0.0</viewRefreshTime>
+                <viewBoundScale>0.0</viewBoundScale>
+            </Icon>
+        </IconStyle>
+    </Style>
+    <Style id="confirmed2">
+        <IconStyle>
+            <scale>1.0</scale>
+            <heading>0.0</heading>
+            <Icon>
+                <href>https://vanriper.github.io/images/marker_green2.png</href>
+                <refreshInterval>0.0</refreshInterval>
+                <viewRefreshTime>0.0</viewRefreshTime>
+                <viewBoundScale>0.0</viewBoundScale>
+            </Icon>
+        </IconStyle>
+    </Style>
+    <Style id="confirmed3">
+        <IconStyle>
+            <scale>1.0</scale>
+            <heading>0.0</heading>
+            <Icon>
+                <href>https://vanriper.github.io/images/marker_green3.png</href>
+                <refreshInterval>0.0</refreshInterval>
+                <viewRefreshTime>0.0</viewRefreshTime>
+                <viewBoundScale>0.0</viewBoundScale>
+            </Icon>
+        </IconStyle>
+    </Style>
+    <Style id="confirmed4">
+        <IconStyle>
+            <scale>1.0</scale>
+            <heading>0.0</heading>
+            <Icon>
+                <href>https://vanriper.github.io/images/marker_green4.png</href>
+                <refreshInterval>0.0</refreshInterval>
+                <viewRefreshTime>0.0</viewRefreshTime>
+                <viewBoundScale>0.0</viewBoundScale>
+            </Icon>
+        </IconStyle>
+    </Style>
+    <Style id="confirmed5">
+        <IconStyle>
+            <scale>1.0</scale>
+            <heading>0.0</heading>
+            <Icon>
+                <href>https://vanriper.github.io/images/marker_green5.png</href>
+                <refreshInterval>0.0</refreshInterval>
+                <viewRefreshTime>0.0</viewRefreshTime>
+                <viewBoundScale>0.0</viewBoundScale>
+            </Icon>
+        </IconStyle>
+    </Style>
+    <Style id="confirmed6">
+        <IconStyle>
+            <scale>1.0</scale>
+            <heading>0.0</heading>
+            <Icon>
+                <href>https://vanriper.github.io/images/marker_green6.png</href>
+                <refreshInterval>0.0</refreshInterval>
+                <viewRefreshTime>0.0</viewRefreshTime>
+                <viewBoundScale>0.0</viewBoundScale>
+            </Icon>
+        </IconStyle>
+    </Style>
+    <Style id="confirmed7">
+        <IconStyle>
+            <scale>1.0</scale>
+            <heading>0.0</heading>
+            <Icon>
+                <href>https://vanriper.github.io/images/marker_green7.png</href>
+                <refreshInterval>0.0</refreshInterval>
+                <viewRefreshTime>0.0</viewRefreshTime>
+                <viewBoundScale>0.0</viewBoundScale>
+            </Icon>
+        </IconStyle>
+    </Style>
+    <Style id="confirmed8">
+        <IconStyle>
+            <scale>1.0</scale>
+            <heading>0.0</heading>
+            <Icon>
+                <href>https://vanriper.github.io/images/marker_green8.png</href>
+                <refreshInterval>0.0</refreshInterval>
+                <viewRefreshTime>0.0</viewRefreshTime>
+                <viewBoundScale>0.0</viewBoundScale>
+            </Icon>
+        </IconStyle>
+    </Style>
+    <Style id="confirmed9">
+        <IconStyle>
+            <scale>1.0</scale>
+            <heading>0.0</heading>
+            <Icon>
+                <href>https://vanriper.github.io/images/marker_green9.png</href>
+                <refreshInterval>0.0</refreshInterval>
+                <viewRefreshTime>0.0</viewRefreshTime>
+                <viewBoundScale>0.0</viewBoundScale>
+            </Icon>
+        </IconStyle>
+    </Style>
+    <Style id="confirmed10">
+        <IconStyle>
+            <scale>1.0</scale>
+            <heading>0.0</heading>
+            <Icon>
+                <href>https://vanriper.github.io/images/marker_green10.png</href>
+                <refreshInterval>0.0</refreshInterval>
+                <viewRefreshTime>0.0</viewRefreshTime>
+                <viewBoundScale>0.0</viewBoundScale>
+            </Icon>
+        </IconStyle>
+    </Style>
+    <Style id="confirmed11">
+        <IconStyle>
+            <scale>1.0</scale>
+            <heading>0.0</heading>
+            <Icon>
+                <href>https://vanriper.github.io/images/marker_green11.png</href>
+                <refreshInterval>0.0</refreshInterval>
+                <viewRefreshTime>0.0</viewRefreshTime>
+                <viewBoundScale>0.0</viewBoundScale>
+            </Icon>
+        </IconStyle>
+    </Style>
+    <Style id="confirmed12">
         <IconStyle>
             <scale>1.0</scale>
             <heading>0.0</heading>
@@ -328,9 +472,23 @@
                     width="200"></p>
                 ]]>
                 </description>
-                <styleUrl>#future4</styleUrl>
+                <styleUrl>#confirmed4</styleUrl>
                 <Point>
                     <coordinates>-73.982430,40.770550</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>San Diego: GopherCon</name>
+                <description>
+                <![CDATA[
+				    <p><strong>Website:</strong> <a
+                    href="https://www.gophercon.com/">gophercon.com</a><br/>
+                    <strong>Date:</strong> July 24-27, 2019<br/></p>
+                ]]>
+                </description>
+                <styleUrl>#confirmed7</styleUrl>
+                <Point>
+                    <coordinates>-117.162872,32.706821</coordinates>
                 </Point>
             </Placemark>
 		</Folder>
@@ -359,7 +517,7 @@
 					<img src="https://www.dotgo.eu/static/images/logo-dotgo.png" width="150"></p>
                 ]]>
                 </description>
-                <styleUrl>#future3</styleUrl>
+                <styleUrl>#confirmed3</styleUrl>
                 <Point>
                     <coordinates>2.331520,48.878630</coordinates>
                 </Point>
@@ -380,7 +538,7 @@
 					<img src="https://static.wixstatic.com/media/bbadf4_e322f75b14db4a8c9bf28059d8c09762~mv2_d_8251_2179_s_2.png/v1/fill/w_2560,h_736,al_c,q_85,usm_0.66_1.00_0.01/bbadf4_e322f75b14db4a8c9bf28059d8c09762~mv2_d_8251_2179_s_2.webp" width="200"></p>
                 ]]>
                 </description>
-                <styleUrl>#future1</styleUrl>
+                <styleUrl>#confirmed1</styleUrl>
                 <Point>
                     <coordinates>13.446100,52.493960</coordinates>
                 </Point>
