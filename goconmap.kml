@@ -469,7 +469,7 @@
                     href="http://gothamgo.com/">gothamgo.com</a><br/>
                     <strong>Date:</strong> April 12, 2019<br/><br/>
                     <img src="http://gothamgo.com/assets/gothamgo/2018/conference/three-14e3d4534217a3cea791355fd4dd36b39146e5e4ec21f7b430a44cb897f99aba.png"
-                    width="200"></p>
+                    width="200" /></p>
                 ]]>
                 </description>
                 <styleUrl>#confirmed4</styleUrl>
@@ -485,7 +485,7 @@
                     href="https://www.gophercon.com/">gophercon.com</a><br/>
                     <strong>Date:</strong> July 24-27, 2019<br/><br/>
                     <img src="https://vanriper.github.io/images/gophercon.png"
-                    width="200"></p>
+                    width="200" /></p>
                 ]]>
                 </description>
                 <styleUrl>#confirmed7</styleUrl>
@@ -516,7 +516,7 @@
                     <strong>CFP:</strong> <a
                     href="https://docs.google.com/forms/d/e/1FAIpQLSfJjXZDjdvJKTKUz_HedK9oJt_sh9MN57GIm_7H0MfDnd4wOA/viewform">Link</a><br/>		
                     <strong>Date:</strong> March 25, 2019<br/><br/>
-                    <img src="https://www.dotgo.eu/static/images/logo-dotgo.png" width="150"></p>
+                    <img src="https://www.dotgo.eu/static/images/logo-dotgo.png" width="150" /></p>
                 ]]>
                 </description>
                 <styleUrl>#confirmed3</styleUrl>
@@ -538,7 +538,7 @@
                     href="https://talks.godays.io/godays19/">Link</a><br/>		
                     <strong>Date:</strong> January 29-30, 2019<br/><br/>
                     <img src="https://static.wixstatic.com/media/bbadf4_e322f75b14db4a8c9bf28059d8c09762~mv2_d_8251_2179_s_2.png/v1/fill/w_2560,h_736,al_c,q_85,usm_0.66_1.00_0.01/bbadf4_e322f75b14db4a8c9bf28059d8c09762~mv2_d_8251_2179_s_2.webp"
-                    width="200"></p>
+                    width="200" /></p>
                 ]]>
                 </description>
                 <styleUrl>#confirmed1</styleUrl>
@@ -557,13 +557,13 @@
                     <p><strong>Website:</strong> <a
                     href="https://www.gophercon.co.uk/">gophercon.co.uk</a><br/>
                     <strong>Date:</strong> March 21-23, 2019<br/><br/>
-                    <img src="https://www.gophercon.co.uk/assets/images/gophercon-uk.svg"
-                    width="200"></p>
+                    <img src="https://vanriper.github.io/images/gophercon-uk.png"
+                    width="200" /></p>
                 ]]>
                 </description>
                 <styleUrl>#confirmed3</styleUrl>
                 <Point>
-                    <coordinates>-73.982430,40.770550</coordinates>
+                    <coordinates>-0.091203,51.520794</coordinates>
                 </Point>
             </Placemark>
         </Folder>
@@ -583,12 +583,12 @@
                     href="https://www.gophercon-russia.ru/en">gophercon-russia.ru</a><br/>
                     <strong>Date:</strong> March 17, 2019<br/><br/>
                     <img src="https://static.tildacdn.com/tild3464-6632-4435-b734-326330356534/Stickers02.png"
-                    width="150"></p>
+                    width="150" /></p>
                 ]]>
                 </description>
                 <styleUrl>#confirmed3</styleUrl>
                 <Point>
-                    <coordinates>-73.982430,40.770550</coordinates>
+                    <coordinates>37.618220,55.752380</coordinates>
                 </Point>
             </Placemark>
         </Folder>
