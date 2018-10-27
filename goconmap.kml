@@ -547,11 +547,51 @@
                 </Point>
             </Placemark>
         </Folder>
+		<Folder>
+			<name>United Kingdom</name>
+        	<open>1</open>
+            <Placemark>
+                <name>London: GopherCon</name>
+                <description>
+                <![CDATA[
+				    <p><strong>Website:</strong> <a
+                    href="https://www.gophercon.co.uk/">gophercon.co.uk</a><br/>
+                    <strong>Date:</strong> March 21-23, 2019<br/><br/>
+					<img src="https://www.gophercon.co.uk/assets/images/gophercon-uk.svg"
+                    width="200"></p>
+                ]]>
+                </description>
+                <styleUrl>#confirmed3</styleUrl>
+                <Point>
+                    <coordinates>-73.982430,40.770550</coordinates>
+                </Point>
+            </Placemark>
+		</Folder>
     </Folder>
 
     <Folder>
         <name>Asia</name>
-        <open>0</open>
+        <open>1</open>
+		<Folder>
+			<name>Russia</name>
+        	<open>1</open>
+            <Placemark>
+                <name>Moscow: GopherCon</name>
+                <description>
+                <![CDATA[
+				    <p><strong>Website:</strong> <a
+                    href="https://www.gophercon-russia.ru/en">gophercon-russia.ru</a><br/>
+                    <strong>Date:</strong> March 17, 2019<br/><br/>
+					<img src="https://static.tildacdn.com/tild3464-6632-4435-b734-326330356534/Stickers02.png"
+                    width="150"></p>
+                ]]>
+                </description>
+                <styleUrl>#confirmed3</styleUrl>
+                <Point>
+                    <coordinates>-73.982430,40.770550</coordinates>
+                </Point>
+            </Placemark>
+		</Folder>
     </Folder>
 
     <Folder>
