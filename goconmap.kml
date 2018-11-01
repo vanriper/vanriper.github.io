@@ -505,6 +505,26 @@
         <name>Europe</name>
         <open>1</open>
         <Folder>
+            <name>Belgium</name>
+            <open>1</open>
+            <Placemark>
+                <name>Brussels: FOSDEM Go Devroom</name>
+                <description>
+                <![CDATA[
+                    <p><strong>Website:</strong> <a
+                    href="https://fosdem.org/2019/schedule/track/go/">fosdem.org/2019</a><br/>
+                    <strong>Date:</strong> February 2, 2019<br/><br/>
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/FOSDEM_logo.svg/440px-FOSDEM_logo.svg.png"
+                    width="200" /></p>
+                ]]>
+                </description>
+                <styleUrl>#confirmed2</styleUrl>
+                <Point>
+                    <coordinates>4.3812809,50.8120738</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder>
             <name>France</name>
             <open>1</open>
             <Placemark>
@@ -556,12 +576,12 @@
                 <![CDATA[
                     <p><strong>Website:</strong> <a
                     href="https://www.gophercon.co.uk/">gophercon.co.uk</a><br/>
-                    <strong>Date:</strong> March 21-23, 2019<br/><br/>
+                    <strong>Date:</strong> August 21-23, 2019<br/><br/>
                     <img src="https://vanriper.github.io/images/gophercon-uk.png"
                     width="200" /></p>
                 ]]>
                 </description>
-                <styleUrl>#confirmed3</styleUrl>
+                <styleUrl>#confirmed8</styleUrl>
                 <Point>
                     <coordinates>-0.091203,51.520794</coordinates>
                 </Point>
@@ -573,6 +593,28 @@
         <name>Asia</name>
         <open>1</open>
         <Folder>
+            <name>India</name>
+            <open>1</open>
+            <Placemark>
+                <name>Goa: Gophercon India</name>
+                <description>
+                <![CDATA[
+                    <p><strong>Website:</strong> <a
+                    href="https://gopherconindia.com/">gopherconindia.com</a><br/>
+                    <strong>CFP:</strong> <a
+                    href="https://gopherconindia.com/call-for-proposal/">Link</a><br/>
+                    <strong>Date:</strong> January 18-19, 2019<br/><br/>
+                    <img src="https://gopherconindia.com/images/gopher-150.png"
+                    width="150" /></p>
+                ]]>
+                </description>
+                <styleUrl>#confirmed1</styleUrl>
+                <Point>
+                    <coordinates>73.741797,15.573411</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder>
             <name>Russia</name>
             <open>1</open>
             <Placemark>
@@ -581,12 +623,12 @@
                 <![CDATA[
                     <p><strong>Website:</strong> <a
                     href="https://www.gophercon-russia.ru/en">gophercon-russia.ru</a><br/>
-                    <strong>Date:</strong> March 17, 2019<br/><br/>
+                    <strong>Date:</strong> April 13, 2019<br/><br/>
                     <img src="https://static.tildacdn.com/tild3464-6632-4435-b734-326330356534/Stickers02.png"
                     width="150" /></p>
                 ]]>
                 </description>
-                <styleUrl>#confirmed3</styleUrl>
+                <styleUrl>#confirmed4</styleUrl>
                 <Point>
                     <coordinates>37.618220,55.752380</coordinates>
                 </Point>
