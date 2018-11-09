@@ -459,8 +459,45 @@
         <name>North America</name>
         <open>1</open>
         <Folder>
+            <name>Canada</name>
+            <open>1</open>
+            <Placemark>
+                <name>Toronto: GoCon Canada</name>
+                <description>
+                <![CDATA[
+                    <p><strong>Website:</strong> <a
+                    href="https://gocon.ca/">gocon.ca</a><br/>
+                    <strong>Date:</strong> April/May, 2019<br/><br/>
+                    <img src="https://vanriper.github.io/images/gocon-canada.png"
+                    width="200" /></p>
+                ]]>
+                </description>
+                <styleUrl>#tbd5</styleUrl>
+                <Point>
+                    <coordinates>-79.6017233,43.6565336</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder>
             <name>United States</name>
             <open>1</open>
+            <Placemark>
+                <name>Miami: Open Go</name>
+                <description>
+                <![CDATA[
+                    <p><strong>Website:</strong> <a
+                    href="https://opengo.io/">opengo.io</a><br/>
+                    <strong>CFP:</strong> <a
+                    href="https://www.papercall.io/opengo">Link</a><br/>
+                    <strong>Date:</strong> March 18, 2019<br/><br/>
+                    <img src="https://opengo.io/images/hero-thumb.svg" width="150" /></p>
+                ]]>
+                </description>
+                <styleUrl>#confirmed3</styleUrl>
+                <Point>
+                    <coordinates>-80.2120892,26.0516862</coordinates>
+                </Point>
+            </Placemark>
             <Placemark>
                 <name>New York: GothamGo</name>
                 <description>
@@ -611,6 +648,28 @@
                 <styleUrl>#confirmed1</styleUrl>
                 <Point>
                     <coordinates>73.741797,15.573411</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder>
+            <name>Israel</name>
+            <open>1</open>
+            <Placemark>
+                <name>Tel Aviv: Gophercon Israel</name>
+                <description>
+                <![CDATA[
+                    <p><strong>Website:</strong> <a
+                    href="https://www.gophercon.org.il/">gophercon.org.il</a><br/>
+                    <strong>CFP:</strong> <a
+                    href="https://www.papercall.io/cfps/1422/submissions/new">Link</a><br/>
+                    <strong>Date:</strong> February 11, 2019<br/><br/>
+                    <img src="https://www.gophercon.org.il/images/duckbear.png.png"
+                    width="150" /></p>
+                ]]>
+                </description>
+                <styleUrl>#confirmed2</styleUrl>
+                <Point>
+                    <coordinates>34.809076,32.105548</coordinates>
                 </Point>
             </Placemark>
         </Folder>
