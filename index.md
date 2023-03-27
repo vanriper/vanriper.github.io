@@ -12,14 +12,14 @@ Programs Office (OSPO) working with the awesome [Carmen Andoh](https://www.linke
 From January 2020 through August 2022, I did outreach for Google's OSPO managing a 7 figure
 annual sponsorship budget for open source projects and foundations.
 
-I left Google in September of 2022 and joined Stellate, a GraphQL Tools Company, in
-January of 2023. I am currently the Developer Community Liaison for Stellate. I also
-represent Stellate on the governing board for the GraphQL Foundation, the conference committee,
-and the community committee.
+I left Google in September of 2022 and joined [Stellate](https://stellate.co/), a GraphQL Tools Company, in
+January of 2023. I am currently the Developer Community Liaison for Stellate. I am Stellate's
+primary representative in the [GraphQL Foundation](https://graphql.org/foundation/) on the
+governing board, the conference committee, and the community committee.
 
 ### GraphQL Conferences
 
-The GraphQL conference map for 2023 is TBD.
+TBD: Add a GraphQL conference map for 2023 here.
 
 ### Creating KML Map Files
 
